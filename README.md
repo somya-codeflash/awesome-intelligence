@@ -512,4 +512,6 @@
 <tr><td><a href='https://www.judyrecords.com'>Judy Records</a><br></td><td>Instantly search 750 million+ United States court cases.</td><td>U.S.A.</td><td>identity</td></tr>
 <tr><td><a href='https://exifeditor.io'>ExifEditor</a><br></td><td>Browser-based EXIF metadata viewer, editor and analysis tool.</td><td>GLOBAL</td><td>identity</td></tr>
 <tr><td><a href='https://tracefind.info'>TraceFind</a><br></td><td>Advanced OSINT Tool for Email and Username.</td><td>GLOBAL</td><td>identity,threat</td></tr>
+<tr><td><a href='https://codeflash.ai'>CodeFlash.AI</a><br></td><td>Ship Blazing-Fast Python Code — Every Time. AI-powered Python code optimizer with verified correctness.</td><td>GLOBAL</td><td>development,performance</td></tr>
+
 </table></div>
